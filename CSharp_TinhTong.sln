@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_TinhTong", "CSharp_TinhTong.csproj", "{86096F31-6F6E-4E2C-AF25-563781266F7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86096F31-6F6E-4E2C-AF25-563781266F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86096F31-6F6E-4E2C-AF25-563781266F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86096F31-6F6E-4E2C-AF25-563781266F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86096F31-6F6E-4E2C-AF25-563781266F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D58565E2-8462-46BF-B768-96F750B43E53}
+	EndGlobalSection
+EndGlobal
